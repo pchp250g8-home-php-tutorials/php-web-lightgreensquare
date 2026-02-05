@@ -1,1 +1,1 @@
-LightGreenSquare. PHP Tutorials. 2D Graphics. Web Application. 
+LightGreenSquare. PHP Tutorials. 2D Graphics. GD. Web Application. 
