@@ -1,4 +1,4 @@
-LightGreenSquare. PHP Tutorials. 2D Graphics. GD. Web Application. 
+LightGreenSquare. PHP Tutorials. 2D Graphics. GD. Web Application.
 It consists of a script file in the PHP programming language named "index.php".
 This application (website, script) does the following:
   1. Allocates memory for an image 300 pixels wide and 300 pixels high.
